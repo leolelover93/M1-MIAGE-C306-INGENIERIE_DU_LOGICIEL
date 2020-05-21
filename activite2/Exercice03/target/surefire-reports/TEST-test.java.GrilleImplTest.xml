@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="test.java.GrilleImplTest" time="0.299" tests="22" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice03\target\test-classes;C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice03\target\classes;C:\Users\hp\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.2\junit-jupiter-engine-5.4.2.jar;C:\Users\hp\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\hp\.m2\repository\org\junit\platform\junit-platform-engine\1.4.2\junit-platform-engine-1.4.2.jar;C:\Users\hp\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\hp\.m2\repository\org\junit\platform\junit-platform-commons\1.4.2\junit-platform-commons-1.4.2.jar;C:\Users\hp\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.2\junit-jupiter-api-5.4.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Africa/Luanda"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\hp\AppData\Local\Temp\surefire1866923913390153461\surefirebooter367309521293987474.jar C:\Users\hp\AppData\Local\Temp\surefire1866923913390153461 2020-05-21T11-56-29_418-jvmRun1 surefire2220083898274273389tmp surefire_018553320584451796tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice03\target\test-classes;C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice03\target\classes;C:\Users\hp\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.2\junit-jupiter-engine-5.4.2.jar;C:\Users\hp\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\hp\.m2\repository\org\junit\platform\junit-platform-engine\1.4.2\junit-platform-engine-1.4.2.jar;C:\Users\hp\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\hp\.m2\repository\org\junit\platform\junit-platform-commons\1.4.2\junit-platform-commons-1.4.2.jar;C:\Users\hp\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.2\junit-jupiter-api-5.4.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\hp"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_172\jre"/>
+    <property name="basedir" value="C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice03"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\hp\AppData\Local\Temp\surefire1866923913390153461\surefirebooter367309521293987474.jar;C:\\Users\\hp\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.4\\org.jacoco.agent-0.8.4-runtime.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_172\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_172-b11"/>
+    <property name="user.name" value="hp"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\hp\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\hp\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_172"/>
+    <property name="user.dir" value="C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice03"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\app\client\hp\product\12.1.0\client_1;C:\app\client\hp\product\12.1.0\client_1\bin;C:\app\hp\product\11.2.0\client_1;C:\app\hp\product\11.2.0\client_1\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile64\;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files (x86)\AOMEI Backupper;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\PuTTY\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Program Files (x86)\Java\jdk1.8.0_172\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\apache-maven-3.6.2\bin;C:\Users\hp\Anaconda3;C:\Python\Python37\Scripts;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\composer;C:\wamp64\bin\php\php7.4.5;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Users\hp\.dotnet\tools;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Users\hp\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\hp\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.172-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testGrilleNeufSetValue" classname="test.java.GrilleImplTest" time="0.001"/>
+  <testcase name="testGrilleSetValueValeurDejaAjouteePresentSurColonne" classname="test.java.GrilleImplTest" time="0.013"/>
+  <testcase name="testConstructeurNeuf" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testGrilleSetValueXHorsBorne2" classname="test.java.GrilleImplTest" time="0.026"/>
+  <testcase name="testGrilleNeufIncomplete" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testConstructeurSeize" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testGrilleNeufGetValue" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testGrilleSetValueValeurDejaAjouteePresentSurLigne" classname="test.java.GrilleImplTest" time="0.009"/>
+  <testcase name="testGrilleSeizeSetValue" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testGrilleNeufGetValueHorsBornes" classname="test.java.GrilleImplTest" time="0.006"/>
+  <testcase name="testGrilleSeizeGetValue" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testGrilleNeufComplete" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testGrilleSeizeGetValueHorsBornes" classname="test.java.GrilleImplTest" time="0.006"/>
+  <testcase name="testGrilleSetValueYHorsBorne" classname="test.java.GrilleImplTest" time="0.011"/>
+  <testcase name="testGrilleSetValueXHorsBorne" classname="test.java.GrilleImplTest" time="0.011"/>
+  <testcase name="testGrilleSetValueYHorsBorne2" classname="test.java.GrilleImplTest" time="0.014"/>
+  <testcase name="testGrilleSeizeIncomplete" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testGrilleNeufSetValueCaractereNonAutorise" classname="test.java.GrilleImplTest" time="0.014"/>
+  <testcase name="testGrilleSeizeSetValueCaractereNonAutorise" classname="test.java.GrilleImplTest" time="0.014"/>
+  <testcase name="testGrilleSeizeComplete" classname="test.java.GrilleImplTest" time="0"/>
+  <testcase name="testGrilleSetValueValeurDejaAjouteePresentSurBloc" classname="test.java.GrilleImplTest" time="0.015"/>
+  <testcase name="testGrilleSetValueCaractereImpossible" classname="test.java.GrilleImplTest" time="0.011"/>
+</testsuite>

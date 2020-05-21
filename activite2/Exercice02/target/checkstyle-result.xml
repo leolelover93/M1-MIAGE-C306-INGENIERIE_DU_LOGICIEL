@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice02\src\main\java\Calcul.java">
+<error line="8" column="1" severity="error" message="Les classes utilitaires ne doivent pas avoir de constructeur par défaut ou public." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+</file>
+</checkstyle>

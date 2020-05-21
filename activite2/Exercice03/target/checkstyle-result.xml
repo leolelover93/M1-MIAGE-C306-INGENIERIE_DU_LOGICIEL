@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice03\src\main\java\Grille.java">
+<error line="19" column="3" severity="error" message="Mot-clef &apos;static&apos; redondant." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="26" column="3" severity="error" message="Mot-clef &apos;static&apos; redondant." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="26" column="23" severity="error" message="Le nom &apos;possible&apos; n&apos;est pas conforme à l&apos;expression &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="34" column="3" severity="error" message="Mot-clef &apos;public&apos; redondant." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="48" column="3" severity="error" message="Mot-clef &apos;public&apos; redondant." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="59" column="3" severity="error" message="Mot-clef &apos;public&apos; redondant." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="66" column="3" severity="error" message="Mot-clef &apos;public&apos; redondant." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="80" column="3" severity="error" message="Mot-clef &apos;public&apos; redondant." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+</file>
+<file name="C:\Users\hp\eclipse-workspace\Ingénierie _Du_Logiciel_Activite02_Exercice03\src\main\java\GrilleImpl.java">
+<error line="48" column="3" severity="error" message="La méthode &apos;getGrille&apos; n&apos;est pas conçue pour être dérivée - il faut la déclarer abstraite, finale ou la laisser vide." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="56" column="3" severity="error" message="La méthode &apos;setGrille&apos; n&apos;est pas conçue pour être dérivée - il faut la déclarer abstraite, finale ou la laisser vide." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="60" column="3" severity="error" message="La méthode &apos;getDimension&apos; n&apos;est pas conçue pour être dérivée - il faut la déclarer abstraite, finale ou la laisser vide." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="65" column="3" severity="error" message="La méthode &apos;setValue&apos; n&apos;est pas conçue pour être dérivée - il faut la déclarer abstraite, finale ou la laisser vide." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="84" column="3" severity="error" message="La méthode &apos;getValue&apos; n&apos;est pas conçue pour être dérivée - il faut la déclarer abstraite, finale ou la laisser vide." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="93" column="3" severity="error" message="La méthode &apos;complete&apos; n&apos;est pas conçue pour être dérivée - il faut la déclarer abstraite, finale ou la laisser vide." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="105" column="3" severity="error" message="La méthode &apos;possible&apos; n&apos;est pas conçue pour être dérivée - il faut la déclarer abstraite, finale ou la laisser vide." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+</checkstyle>
